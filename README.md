@@ -1,6 +1,5 @@
-- 👋 Hi, I’m zahid from Khulna, Bangladesh
-- 👀 I’m working in PHP Programming with Codeigniter
-- 🌱 I’m currently learning Python and Higl Level SQL
+- 👋 Hi, I’m Zahid from Khulna, Bangladesh
+- 👀 I develop software using PHP, Codeigniter, Bootstrap, Python, Mysql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 Just Drop a mail to iusumon@gmail.com
