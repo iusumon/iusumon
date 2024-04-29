@@ -11,7 +11,7 @@ Tools I use everyday
 5. Jquery
 6. bootstrap
 7. CSS
-8. Got
+8. Git
 9. Vim editor
 
 & occasionally Python, Bash Script, Debian Linux for my personal need
